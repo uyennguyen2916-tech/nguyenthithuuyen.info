@@ -44,7 +44,7 @@
   <div class="card">
     <p><strong>FPT University – Ho Chi Minh City</strong></p>
     <p>Bachelor of Digital Marketing (Expected 2028)</p>
-    <p>100% FPT University Scholarship</p>
+    <p>100% FPT University Scholarship<br>60% AUV Scholarship<br>25% Swinburne University Scholarship</p>
   </div>
 
   <h2>Experience</h2>
@@ -67,6 +67,14 @@
   </div>
 
   <div class="card">
+    <p><strong>Ambassador – TED-Ed Club NQD (2021 – 2022)</strong></p>
+    <ul>
+      <li>Supported communication activities and assisted in organizing educational events</li>
+      <li>Contributed to content coordination and community engagement initiatives</li>
+    </ul>
+  </div>
+
+  <div class="card">
     <p><strong>Content & Communication Support (2024)</strong></p>
     <ul>
       <li>Prepared written content and presentation materials</li>
@@ -74,10 +82,30 @@
     </ul>
   </div>
 
+  <div class="card">
+    <p><strong>SSG Course Project – Free Vegetarian Buffet</strong></p>
+    <ul>
+      <li>Produced posters and standees for promotional purposes</li>
+      <li>Raised funds through product sales and sponsorship outreach</li>
+      <li>Connected and coordinated with restaurants to implement the project</li>
+    </ul>
+    <p>
+      <a href="https://web.facebook.com/reel/2169128963499617" target="_blank" style="color:#2563eb; text-decoration:underline;">
+        View Project Reel
+      </a>
+    </p>
+  </div>
+
   <h2>Projects & Activities</h2>
   <div class="card">
     <p><strong>Top 25 – Green Marketing Challenge (2025)</strong></p>
     <p>Conducted market research and developed business ideas under time constraints, focusing on feasibility and sustainability considerations.</p>
+    <p>Produced a TV commercial for an automatic oil change machine as part of the campaign execution.</p>
+    <p>
+      <a href="https://web.facebook.com/gmc.may3r/videos/1014113053924166/?rdid=rEvBF8YfGMwHMEW2#" target="_blank" style="color:#2563eb; text-decoration:underline;">
+        View TV Commercial
+      </a>
+    </p>
   </div>
 
   <div class="card">
